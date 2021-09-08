@@ -1,4 +1,4 @@
-# PERSONAL PORTFOLIO
+# portfolio
 Hi , im vishnu 
 
 This is my upcoming portfolio
